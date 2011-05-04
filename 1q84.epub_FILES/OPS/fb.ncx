@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <!-- The following four metadata items are required for all   NCX documents, including those conforming to the relaxed         constraints of OPS 2.0 -->
+    <meta name="dtb:uid" content="uid"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>title</text>
+  </docTitle>
+  <docAuthor>
+    <text>author</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="pTitle" id="level1-title" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    <navPoint class="pAbout" id="level1-about" playOrder="2">
+      <navLabel>
+        <text>关于本书</text>
+      </navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+    <navPoint class="pRight" id="level1-right" playOrder="3">
+      <navLabel>
+        <text>声明</text>
+      </navLabel>
+      <content src="right.xml"/>
+    </navPoint>
+    <navPoint class="pShucang" id="level1-shucang" playOrder="4">
+      <navLabel>
+        <text>书仓介绍</text>
+      </navLabel>
+      <content src="shucang.xml"/>
+    </navPoint>
+  <navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 独立阅读</text></navLabel><content src="1.html#_ShucangTocLink1"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 编者按</text></navLabel><content src="1.html#_ShucangTocLink2"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 读者来信</text></navLabel><content src="1.html#_ShucangTocLink3"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 目录</text></navLabel><content src="1.html#_ShucangTocLink4"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 阅读报告·中国大陆</text></navLabel><content src="1.html#_toc269170754"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  literature·fiction写作·虚构</text></navLabel><content src="1.html#_toc269170755"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  literature·nonfiction写作·非虚构</text></navLabel><content src="1.html#_ShucangTocLink7"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  thought思想</text></navLabel><content src="1.html#_toc269170756"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  historyculture文史</text></navLabel><content src="1.html#_ShucangTocLink9"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> focus专题·大国转型</text></navLabel><content src="1.html#_ShucangTocLink10"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  中国企业史上的三次“国进民退”</text></navLabel><content src="1.html#_ShucangTocLink11"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  从“大正民主”到法西斯时代</text></navLabel><content src="1.html#_ShucangTocLink12"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> bookview书评</text></navLabel><content src="1.html#_ShucangTocLink13"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  命运将我们判给了赫拉巴尔</text></navLabel><content src="1.html#_ShucangTocLink14"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  一个不得不面对的“文学弱时代”</text></navLabel><content src="1.html#_ShucangTocLink15"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> flim电影</text></navLabel><content src="1.html#_ShucangTocLink16"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  没有都市的森林</text></navLabel><content src="1.html#_ShucangTocLink17"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> interview访谈</text></navLabel><content src="1.html#_ShucangTocLink18"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  台湾人民绝非失败者——专访齐邦媛</text></navLabel><content src="1.html#_ShucangTocLink19"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> translation译介</text></navLabel><content src="1.html#_ShucangTocLink20"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text>  我们为什么听不见瓦格纳的音乐</text></navLabel><content src="1.html#_ShucangTocLink21"/></navPoint><navPoint  id="node_5" class="node" playOrder="5"><navLabel><text> 鸣谢：季风书讯</text></navLabel><content src="1.html#_ShucangTocLink22"/></navPoint></navMap>
+</ncx>

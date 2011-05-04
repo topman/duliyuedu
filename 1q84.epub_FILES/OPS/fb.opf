@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="PrimaryID">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>独立阅读2011年3月</dc:title>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">2ab4384e-62fa-4a4a-bcf1-9185767f6756</dc:identifier>
+    <dc:language>zh</dc:language>
+    <dc:creator opf:role="aut" opf:file-as="author">独立阅读</dc:creator>
+    <dc:publisher></dc:publisher>
+    <dc:description>阅读报告&amp;bull;中国大陆
+写  作：朱  白   朱航满
+思  想：成  庆
+文　史：王晓渔
+专题&amp;bull;大国转型
+苏小和：中国企业史上的三次&amp;ldquo;国进民退&amp;rdquo;
+刘  柠：从&amp;ldquo;大正民主&amp;rdquo;到法西斯时代
+书评
+戴新伟：命运将我们判给了赫拉巴尔
+朱  白：一个不得不面对的&amp;ldquo;文学弱时代&amp;rdquo;
+电影
+言  一：没有都市的森林
+访谈
+灵  子：台湾人民绝非失败者&amp;mdash;&amp;mdash;专访齐邦媛
+译介
+David P. Goldman：我们为什么听不见瓦格纳的音乐（朱芳艺译）
+</dc:description>
+    <dc:coverage>coverage</dc:coverage>
+    <dc:source>网络</dc:source>
+    <dc:date opf:event="original-publication">2011-04-08</dc:date>
+    <dc:date opf:event="ops-publication">date-ops</dc:date>
+    <dc:rights>版权归原作者所有,仅供学习交流使用,上传者自行对所传内容的权属负责</dc:rights>
+    <dc:subject>书评 瓦格纳 齐邦媛 转型</dc:subject>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <!-- Content Documents -->
+    <item id="title" href="title.xml" media-type="application/xhtml+xml"/>
+    <item id="about" href="about.xml" media-type="application/xhtml+xml"/>
+    <item id="right" href="right.xml" media-type="application/xhtml+xml"/>
+    <item id="shucang" href="shucang.xml" media-type="application/xhtml+xml"/>
+    <!-- CSS Style Sheets -->
+    <item id="main-css" href="css/main.css" media-type="text/css"/>
+    <!-- Images -->
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <!-- NCX -->
+    <item id="ncx" href="fb.ncx" media-type="application/x-dtbncx+xml"/>
+  <item  id="node_1" href="1.html" media-type="application/xhtml+xml"/></manifest>
+  <spine toc="ncx">
+    <itemref idref="title" linear="yes"/>
+    <itemref idref="about" linear="yes"/>
+    <itemref idref="right" linear="yes"/>
+    <itemref idref="shucang" linear="yes"/>
+  <itemref  idref="node_1" linear="yes"/></spine>
+  <guide>
+    <reference type="title-page" title="封面" href="title.xml"/>
+    <reference type="bibliography" title="关于本书" href="about.xml"/>
+    <reference type="copyright-page" title="声明" href="right.xml"/>
+    <reference type="text" title="书仓介绍" href="shucang.xml"/>
+  <reference  type="text" title=" 独立阅读" href="1.html#_ShucangTocLink1"/><reference  type="text" title=" 编者按" href="1.html#_ShucangTocLink2"/><reference  type="text" title=" 读者来信" href="1.html#_ShucangTocLink3"/><reference  type="text" title=" 目录" href="1.html#_ShucangTocLink4"/><reference  type="text" title=" 阅读报告·中国大陆" href="1.html#_toc269170754"/><reference  type="text" title="  literature·fiction写作·虚构" href="1.html#_toc269170755"/><reference  type="text" title="  literature·nonfiction写作·非虚构" href="1.html#_ShucangTocLink7"/><reference  type="text" title="  thought思想" href="1.html#_toc269170756"/><reference  type="text" title="  historyculture文史" href="1.html#_ShucangTocLink9"/><reference  type="text" title=" focus专题·大国转型" href="1.html#_ShucangTocLink10"/><reference  type="text" title="  中国企业史上的三次“国进民退”" href="1.html#_ShucangTocLink11"/><reference  type="text" title="  从“大正民主”到法西斯时代" href="1.html#_ShucangTocLink12"/><reference  type="text" title=" bookview书评" href="1.html#_ShucangTocLink13"/><reference  type="text" title="  命运将我们判给了赫拉巴尔" href="1.html#_ShucangTocLink14"/><reference  type="text" title="  一个不得不面对的“文学弱时代”" href="1.html#_ShucangTocLink15"/><reference  type="text" title=" flim电影" href="1.html#_ShucangTocLink16"/><reference  type="text" title="  没有都市的森林" href="1.html#_ShucangTocLink17"/><reference  type="text" title=" interview访谈" href="1.html#_ShucangTocLink18"/><reference  type="text" title="  台湾人民绝非失败者——专访齐邦媛" href="1.html#_ShucangTocLink19"/><reference  type="text" title=" translation译介" href="1.html#_ShucangTocLink20"/><reference  type="text" title="  我们为什么听不见瓦格纳的音乐" href="1.html#_ShucangTocLink21"/><reference  type="text" title=" 鸣谢：季风书讯" href="1.html#_ShucangTocLink22"/></guide>
+</package>

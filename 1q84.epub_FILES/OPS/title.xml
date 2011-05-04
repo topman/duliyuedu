@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN">
+<head>
+<meta name="generator" content="html tidy, see www.w3.org" />
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+<title>封面</title>
+<link rel="stylesheet" href="css/main.css" type="text/css" />
+
+</head>
+<body>
+<p align="center"><img src="images/cover.jpg" class="book_cover"/></p>
+<h1 class="book_title">独立阅读2011年3月</h1><h3 class="book_author">独立阅读</h3>
+</body>
+</html>
+
